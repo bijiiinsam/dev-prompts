@@ -5,7 +5,8 @@
 
 set -e
 
-REPO="MrMadHatt/dev-prompts"
+# Dynamically get the repository name
+REPO=$(gh repo view --json owner,name --jq '.owner.login + "/" + .name' 2>/dev/null || echo "MrMadHatt/dev-prompts")
 BRANCH="main"
 
 echo "🔒 Applying branch protection rules to $REPO:$BRANCH"

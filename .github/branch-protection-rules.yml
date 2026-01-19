@@ -37,6 +37,8 @@ rules:
 
 bypass_actors:
   # Repository administrators can bypass these rules
+  # Note: actor_id 5 represents the "Admin" role in GitHub's repository role system
+  # Role IDs: 1=Read, 2=Triage, 4=Write, 5=Maintain, 6=Admin
   - actor_id: 5
     actor_type: RepositoryRole
     bypass_mode: always
