@@ -1,0 +1,49 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Debug Code Error",
+      "category": "Debugging",
+      "prompt": "I'm getting this error: [ERROR MESSAGE].  Here's my code:  [CODE].  Explain what's wrong in simple terms and suggest a fix.",
+      "tags": ["debugging", "error-handling"],
+      "votes": 0,
+      "author": "MrMadHatt"
+    },
+    {
+      "id": 2,
+      "title": "Explain Like I'm 5",
+      "category": "Learning",
+      "prompt": "Explain [CONCEPT] like I'm 5 years old, then give me a practical coding example in [LANGUAGE].",
+      "tags": ["learning", "beginner"],
+      "votes": 0,
+      "author": "MrMadHatt"
+    },
+    {
+      "id": 3,
+      "title": "Code Review",
+      "category": "Code Review",
+      "prompt": "Review this code for bugs, performance issues, security vulnerabilities, and best practices. Suggest improvements:  [CODE]",
+      "tags": ["code-review", "best-practices"],
+      "votes":  0,
+      "author":  "MrMadHatt"
+    },
+    {
+      "id": 4,
+      "title": "Refactor for Readability",
+      "category": "Refactoring",
+      "prompt": "Refactor this code to be more readable and maintainable while preserving functionality:  [CODE]",
+      "tags": ["refactoring", "clean-code"],
+      "votes":  0,
+      "author":  "MrMadHatt"
+    },
+    {
+      "id":  5,
+      "title":  "Generate Documentation",
+      "category": "Documentation",
+      "prompt": "Write clear, comprehensive documentation for this function including parameters, return values, and usage examples:  [CODE]",
+      "tags": ["documentation", "comments"],
+      "votes": 0,
+      "author": "MrMadHatt"
+    }
+  ]
+}
